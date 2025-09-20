@@ -1,2 +1,2 @@
 # calculator-
-using machine learning we develop this project 
+using fullstack  we develop this project 
